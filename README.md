@@ -1,7 +1,7 @@
 # Binary Scripts
 
 <p align="center">
-  <img src="./banner.png" alt="Binary Scripts Banner" width="100%">
+  <img src="./binary-scripts-github-banner.png" alt="Binary Scripts Banner" width="100%">
 </p>
 
 ### Premium FiveM Scripts & Development Services
