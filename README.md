@@ -21,10 +21,6 @@ Our goal is to provide professional and modern solutions for FiveM server owners
   <img src="https://img.shields.io/github/stars/binaryscriptsfivem?style=for-the-badge&logo=github&label=Total%20Stars&color=181717" alt="Total Stars" />
 </p>
 
-<!-- STATS_START -->
-
-<!-- STATS_END -->
-
 ---
 
 ## 🛠️ Tools
