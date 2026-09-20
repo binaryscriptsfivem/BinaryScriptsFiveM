@@ -17,7 +17,7 @@ Our goal is to provide professional and modern solutions for FiveM server owners
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-3-181717?style=for-the-badge&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbinaryscriptsfivem&query=%24.public_repos&label=Repositories&color=181717&style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   <img src="https://img.shields.io/badge/Total%20Stars-0-181717?style=for-the-badge&logo=github" alt="Total Stars" />
 </p>
 
