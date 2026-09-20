@@ -1,5 +1,9 @@
 # Binary Scripts
 
+<p align="center">
+  <img src="./banner.png" alt="Binary Scripts Banner" width="100%">
+</p>
+
 ### Premium FiveM Scripts & Development Services
 
 Welcome to **Binary Scripts** — a FiveM development service focused on creating high-quality, optimized, and reliable scripts for roleplay servers.
